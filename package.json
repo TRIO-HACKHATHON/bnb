@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@bnb-chain/greenfield-contracts-sdk": "^1.0.0"
+  }
+}
